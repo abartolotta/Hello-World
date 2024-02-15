@@ -2,9 +2,9 @@
 This repository is for practicing the GitHub Flow
 I am a sophomore at the University of Iowa Tippie College of Business studying Finance and Business Analytics & Information Systems
 ### Table of Contents
-- [Project Table] (#Project-Title)
-- [Description] (#Description)
-- [Important Points] (#Important-Points)
+- [PROJECT TITLE](#Project-Title)
+- [DESCRIPTION](#Description)
+- [IMPORTANT POINTS](#Important-Points)
 
  # Project Title
 **Hello World Project**
