@@ -10,7 +10,7 @@ I am a sophomore at the University of Iowa Tippie College of Business studying F
 **Hello World Project**
 
 ### Description
-_The main point of this project is to help me understand the basis of Github, and I know I will need to <sub>understand</sub> this platform well_
+_The main point of this project is to help me understand the basis of Github, and I know I will need to <sub>understand</sub> this platform well to succeed in business analytics classes_
 
 ### Important Points 
 
