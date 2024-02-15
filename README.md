@@ -1,5 +1,5 @@
 # Hello-World
-This repository is for practicing the GitHub Flow
+This repository is for practicing the GitHub Flow.
 I am a sophomore at the University of Iowa Tippie College of Business studying Finance and Business Analytics & Information Systems
 ### Table of Contents
 - [PROJECT TITLE](#Project-Title)
